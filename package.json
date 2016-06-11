@@ -1,0 +1,13 @@
+{
+  "name": "wiki-kafka",
+  "version": "1.0.0",
+  "description": "Kafka playground - nothing to see here...",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "kafka-node": "^0.3.3",
+    "socket.io-client": "^0.9.2"
+  },
+  "devDependencies": {},
+  "author": "Keith Pope",
+  "license": "ISC"
+}
